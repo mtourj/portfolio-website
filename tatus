@@ -1,0 +1,65 @@
+[33mcommit 1835df8ad849e6194d4909d6334798750e06557a[m[33m ([m[1;36mHEAD -> [m[1;32mmohammad-tourjoman[m[33m, [m[1;31morigin/mohammad-tourjoman[m[33m)[m
+Author: Mohammad Tourjoman <mtourjoman01@hotmail.com>
+Date:   Tue Apr 30 14:50:19 2019 -0700
+
+    Fixed CNAME file
+
+[33mcommit 9e151f2a9bc21c3455a58a298586265af0527810[m
+Author: Mohammad Tourjoman <mtourjoman01@hotmail.com>
+Date:   Tue Apr 30 14:36:35 2019 -0700
+
+    Removed music section (dumb idea)
+
+[33mcommit 098c058b10ee8867e81d8494e3eb15797f286c7a[m
+Author: Mohammad Tourjoman <mtourjoman01@hotmail.com>
+Date:   Tue Apr 30 14:34:12 2019 -0700
+
+    Finished About section
+
+[33mcommit 7fb5aa694b0a4542afe1d9bd105a45c912c7607b[m
+Author: Mohammad Tourjoman <mtourjoman01@hotmail.com>
+Date:   Tue Apr 30 12:21:50 2019 -0700
+
+    Added headshot image and CNAME file
+
+[33mcommit 7f6e542c29bee6f675ff790dd6ac7789786c36b1[m
+Author: Mohammad Tourjoman <mtourjoman01@hotmail.com>
+Date:   Tue Apr 30 10:57:32 2019 -0700
+
+    Created project w/ Dimension template
+
+[33mcommit b3729c168616f4b07ecb39a6d5b8e78ce6a3b737[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Tue Feb 19 10:06:38 2019 -0700
+
+    added walk through video
+
+[33mcommit 8a5d1e15dff562c31f9d01fae573cabdcf9e901d[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Fri Feb 15 21:34:53 2019 -0700
+
+    added portfolio link suggestions
+
+[33mcommit a69cbf1798b3dab8823e4702ebcb5204b22fa77a[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Tue Jan 15 00:11:01 2019 -0700
+
+    highlighting project set up headers
+
+[33mcommit 428f0b5aed9ba1eb1fc6eb9dd0be83ea4f2c3bc9[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Mon Jan 14 23:37:11 2019 -0700
+
+    Added github pages as a MVP req
+
+[33mcommit f75456c582ab8f0bb48c9fbf382f94f32a066d5c[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Mon Jan 14 23:34:38 2019 -0700
+
+    Initial readme file commit
+
+[33mcommit 8ea4a37ba3bcbcbbf83892a357178f7934a771ae[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Mon Jan 14 23:27:48 2019 -0700
+
+    Initial commit
